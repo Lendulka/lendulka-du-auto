@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #D6D6D6;
+}
+
+.car {
+    display: block;
+}
+
+.car--marginLeft {
+    margin-left: 60px;
+}
